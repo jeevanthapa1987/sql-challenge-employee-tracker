@@ -1,0 +1,27 @@
+{
+  "name": "sql-challenge-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanthapa1987/sql-challenge-employee-tracker.git"
+  },
+  "author": "jeevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevanthapa1987/sql-challenge-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/jeevanthapa1987/sql-challenge-employee-tracker#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "inquirer": "^7.3.3",
+    "mysql2": "^3.9.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
